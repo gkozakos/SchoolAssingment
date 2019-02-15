@@ -17,6 +17,7 @@ public class Main {
         createAssignments(assignments, scanner);
     }
 
+    // na to teleiwsw aurio
     private static void createAssignments(ArrayList<Assignment> assignments, Scanner scanner) {
         System.out.println("Do you wish to add an assignment? press Y for yes or N for no");
         while (scanner.next().equalsIgnoreCase("y")) {
