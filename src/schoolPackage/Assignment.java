@@ -1,12 +1,10 @@
 package schoolPackage;
 
-import java.util.Date;
-
 public class Assignment {
     private String title;
     private String description;
-    private Date dueDate;
-    private int oralMark;
+    private String dueDate;
+    private double oralMark;
     private int totalMark;
 
     public String getTitle() {
@@ -25,23 +23,23 @@ public class Assignment {
         this.description = description;
     }
 
-    public Date getDueDate() {
+    public String getDueDate() {
         return dueDate;
     }
 
-    public void setDueDate(Date dueDate) {
+    public void setDueDate(String dueDate) {
         this.dueDate = dueDate;
     }
 
-    public int getOralMark() {
+    public double getOralMark() {
         return oralMark;
     }
 
-    public void setOralMark(int oralMark) {
+    public void setOralMark(double oralMark) {
         this.oralMark = oralMark;
     }
 
-    public int getTotalMark() {
+    public int getTotalMark(double v) {
         return totalMark;
     }
 

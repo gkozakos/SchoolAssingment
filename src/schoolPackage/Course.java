@@ -1,13 +1,22 @@
 package schoolPackage;
 
-import java.util.Date;
+import java.util.ArrayList;
 
 public class Course {
     private String title;
     private String stream;
     private String type;
-    private Date startDate;
+    private String startDate;
 
+    public ArrayList<Student> getCourseStudents() {
+        return courseStudents;
+    }
+
+    public void setCourseStudents(ArrayList<Student> courseStudents) {
+        this.courseStudents = courseStudents;
+    }
+
+    private ArrayList<Student> courseStudents;
     public String getTitle() {
         return title;
     }
@@ -32,23 +41,23 @@ public class Course {
         this.type = type;
     }
 
-    public Date getStartDate() {
+    public String getStartDate() {
         return startDate;
     }
 
-    public void setStartDate(Date startDate) {
+    public void setStartDate(String startDate) {
         this.startDate = startDate;
     }
 
-    public Date getEndDate() {
+    public String getEndDate() {
         return endDate;
     }
 
-    public void setEndDate(Date endDate) {
+    public void setEndDate(String endDate) {
         this.endDate = endDate;
     }
 
-    Date endDate;
+    String endDate;
 
 
 }
