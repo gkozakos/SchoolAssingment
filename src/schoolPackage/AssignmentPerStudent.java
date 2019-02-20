@@ -1,22 +1,28 @@
 package schoolPackage;
 
-public class AssignmentPerStudent {
-    private String assignment;
-    private String student;
+import java.util.ArrayList;
 
-    public String getAssignment() {
+public class AssignmentPerStudent {
+    private Assignment assignment;
+    private ArrayList<Student> students;
+
+    public AssignmentPerStudent() {
+        students = new ArrayList<>();
+    }
+
+    public Assignment getAssignment() {
         return assignment;
     }
 
-    public void setAssignment(String assignment) {
+    public void setAssignment(Assignment assignment) {
         this.assignment = assignment;
     }
 
-    public String getStudent() {
-        return student;
+    public ArrayList<Student> getStudents() {
+        return students;
     }
 
-    public void setStudent(String student) {
-        this.student = student;
+    public void setStudents(ArrayList<Student> students) {
+        this.students = students;
     }
 }
