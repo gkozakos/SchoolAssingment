@@ -7,7 +7,7 @@ public class Course {
     private String stream;
     private String type;
     private String startDate;
-
+    private String endDate;
     public ArrayList<Student> getCourseStudents() {
         return courseStudents;
     }
@@ -57,7 +57,16 @@ public class Course {
         this.endDate = endDate;
     }
 
-    String endDate;
 
-
+    @Override
+    public String toString() {
+        return "Course{" +
+                "title='" + title + '\'' +
+                ", stream='" + stream + '\'' +
+                ", type='" + type + '\'' +
+                ", startDate='" + startDate + '\'' +
+                ", endDate='" + endDate + '\'' +
+                ", courseStudents=" + courseStudents +
+                '}';
+    }
 }

@@ -19,4 +19,12 @@ public class TrainersPerCourse {
     public void setCourse(String course) {
         this.course = course;
     }
+
+    @Override
+    public String toString() {
+        return "TrainersPerCourse{" +
+                "trainer='" + trainer + '\'' +
+                ", course='" + course + '\'' +
+                '}';
+    }
 }

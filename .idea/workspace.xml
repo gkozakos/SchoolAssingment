@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="272568f2-8fb1-4067-8f1e-3250eee57374" name="Default Changelist" comment="" />
+    <list default="true" id="272568f2-8fb1-4067-8f1e-3250eee57374" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/schoolPackage/AddFuctionality.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schoolPackage/Menus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/schoolPackage/ShowFunctionality.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Assignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Assignment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/AssignmentPerStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/AssignmentPerStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/AssignmentsPerCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/AssignmentsPerCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Course.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Course.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/CoursePerStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/CoursePerStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Trainer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/Trainer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/TrainersPerCourse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SchoolAssingment/schoolPackage/TrainersPerCourse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/Assignment.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/Assignment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/AssignmentPerStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/AssignmentPerStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/CoursePerStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/CoursePerStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/Trainer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/Trainer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,105 +33,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/AssignmentPerStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1">
-              <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/teamWithPersonAndDogs2/PlayersPerTeam.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/CoursePerStudent.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/Student.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/Trainer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="22" selection-start-column="22" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/Assignment.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/schoolPackage/Course.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="884">
-              <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>course</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -116,19 +54,24 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/schoolPackage/Trainer.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/dls.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/StudentsPerCourse.java" />
         <option value="$PROJECT_DIR$/src/schoolPackage/Student.java" />
-        <option value="$PROJECT_DIR$/src/schoolPackage/Assignment.java" />
-        <option value="$PROJECT_DIR$/src/schoolPackage/Course.java" />
-        <option value="$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java" />
-        <option value="$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java" />
         <option value="$PROJECT_DIR$/src/schoolPackage/CoursePerStudent.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/Trainer.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java" />
         <option value="$PROJECT_DIR$/src/schoolPackage/AssignmentPerStudent.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/Course.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/Menus.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/Assignment.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/ShowFunctionality.java" />
         <option value="$PROJECT_DIR$/src/schoolPackage/Main.java" />
+        <option value="$PROJECT_DIR$/src/schoolPackage/AddFuctionality.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-25" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -139,6 +82,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -161,14 +106,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550646135774" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550998473093" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/teamWithPersonAndDogs2/PlayersPerTeam.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -215,26 +158,25 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.13557047" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.12147651" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Message" order="1" />
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="5" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3286119" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
@@ -246,55 +188,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Trainer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Assignment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="884">
-          <caret line="52" column="20" selection-start-line="52" selection-start-column="20" selection-end-line="52" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/schoolPackage/CoursePerStudent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/teamWithPersonAndDogs2/PlayersPerTeam.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -302,17 +195,97 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/dls.java" />
+    <entry file="file://$USER_HOME$/Downloads/PrivateSchool/src/privateschool/PrivateSchool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1063#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Trainer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="22" selection-start-line="33" selection-start-column="22" selection-end-line="33" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/AssignmentsPerCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPackage/AssignmentPerStudent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        <state relative-caret-position="-187">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1088">
+          <caret line="64" column="23" lean-forward="true" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/CoursePerStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-152">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/TrainersPerCourse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Assignment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/AddFuctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4085">
+          <caret line="53" column="23" selection-start-line="53" selection-start-column="23" selection-end-line="53" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/ShowFunctionality.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/schoolPackage/Menus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/schoolPackage/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="167" column="12" selection-start-line="167" selection-start-column="12" selection-end-line="167" selection-end-column="12" />
+        <state relative-caret-position="731">
+          <caret line="43" column="8" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
         </state>
       </provider>
     </entry>

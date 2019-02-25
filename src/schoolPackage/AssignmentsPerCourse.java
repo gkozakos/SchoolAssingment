@@ -19,4 +19,12 @@ public class AssignmentsPerCourse {
     public void setCourse(String course) {
         this.course = course;
     }
+
+    @Override
+    public String toString() {
+        return "AssignmentsPerCourse{" +
+                "assignment='" + assignment + '\'' +
+                ", course='" + course + '\'' +
+                '}';
+    }
 }

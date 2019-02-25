@@ -1,12 +1,10 @@
 package schoolPackage;
 
-import java.util.Date;
-
 public class Student {
     private String firstName;
     private String lastName;
     private String dateOfBirth;
-    private int tuitionFees;
+    private double tuitionFees;
 
 //    public Student() {
 //        firstName = "George";
@@ -44,11 +42,21 @@ public class Student {
         this.dateOfBirth = dateOfBirth;
     }
 
-    public int getTuitionFees() {
-        return tuitionFees;
+    public double getTuitionFees() {
+        return (double) tuitionFees;
     }
 
-    public void setTuitionFees(int tuitionFees) {
+    public void setTuitionFees(double tuitionFees) {
         this.tuitionFees = tuitionFees;
+    }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", dateOfBirth='" + dateOfBirth + '\'' +
+                ", tuitionFees=" + tuitionFees +
+                '}';
     }
 }

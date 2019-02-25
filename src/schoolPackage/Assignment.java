@@ -46,4 +46,15 @@ public class Assignment {
     public void setTotalMark(int totalMark) {
         this.totalMark = totalMark;
     }
+
+    @Override
+    public String toString() {
+        return "Assignment{" +
+                "title='" + title + '\'' +
+                ", description='" + description + '\'' +
+                ", dueDate='" + dueDate + '\'' +
+                ", oralMark=" + oralMark +
+                ", totalMark=" + totalMark +
+                '}';
+    }
 }

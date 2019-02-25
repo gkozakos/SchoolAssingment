@@ -19,4 +19,12 @@ public class CoursePerStudent {
     public void setStudent(String student) {
         this.student = student;
     }
+
+    @Override
+    public String toString() {
+        return "CoursePerStudent{" +
+                "course='" + course + '\'' +
+                ", student='" + student + '\'' +
+                '}';
+    }
 }

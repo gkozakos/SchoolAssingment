@@ -25,4 +25,12 @@ public class AssignmentPerStudent {
     public void setStudents(ArrayList<Student> students) {
         this.students = students;
     }
+
+    @Override
+    public String toString() {
+        return "AssignmentPerStudent{" +
+                "assignment=" + assignment +
+                ", students=" + students +
+                '}';
+    }
 }
